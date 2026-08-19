@@ -1,4 +1,5 @@
 # Cron_Scribe 🎯
+![CI](https://github.com/realMNohgee/Cron_Scribe/actions/workflows/ci.yml/badge.svg) ![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg) ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 **Natural language to cron expression converter and validator. Translate 'every Monday at 9am' into cron syntax and back.** Zero dependencies, pure Python stdlib.
 
